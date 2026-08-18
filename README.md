@@ -7,10 +7,7 @@
   <img src="https://img.shields.io/badge/Tehran,_Iran-555?style=flat&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
----
-
 Backend engineer with 8+ years building high-throughput, security-critical distributed systems. I work mostly in Go, on the kind of infrastructure where correctness is not optional — payment and transaction pipelines, custody and key-management systems, and the services around them.
----
 
 ### Core
 
